@@ -5,9 +5,9 @@ An application to manage the UI widget and it interative nature
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="YOUR_GIF![ezgif com-gif-maker](https://user-images.githubusercontent.com/37465647/150351419-e7bd3b54-12f5-4c2f-9b1a-6c88a47a9ee6.gif)
+_URL_HERE" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [ ] 1. User sees custom text in a label - Hello from {name}!
