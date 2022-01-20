@@ -1,14 +1,9 @@
-# codepath-prework
-CodePath prework project
-
-
 ## Codepath-prework
 
 ### App Description
 An application to manage the UI widget and it interative nature
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
