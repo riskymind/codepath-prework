@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">First Application</string>
+    <string name="hello_from_kelechi">Hello from Kelechi!</string>
+    <string name="change_text_color">change text color</string>
+    <string name="change_background_color">Change background color</string>
+    <string name="change_text">change text</string>
+    <string name="text_value">Android is Awesome!</string>
+    <string name="enter_custom_text_here">Enter custom text here!!</string>
+    <string name="click_to_change_custom_text">Click to change custom text</string>
+    <string name="error_text">Enter your own text</string>
+</resources>
