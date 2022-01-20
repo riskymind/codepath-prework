@@ -5,8 +5,7 @@ An application to manage the UI widget and it interative nature
 
 ### App Walk-though
 
-<img src="YOUR_GIF![ezgif com-gif-maker](https://user-images.githubusercontent.com/37465647/150351419-e7bd3b54-12f5-4c2f-9b1a-6c88a47a9ee6.gif)
-_URL_HERE" width=200><br>
+<img src="![ezgif com-gif-maker](https://user-images.githubusercontent.com/37465647/150351419-e7bd3b54-12f5-4c2f-9b1a-6c88a47a9ee6.gif)" width=200><br>
 
 
 ### Required User Stories
